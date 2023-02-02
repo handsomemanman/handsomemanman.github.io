@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on charlola.mode</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on charlola.mode</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 01 Feb 2023 14:12:23 +0800</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zyx First Blog</title>
+      <link>/post/zyx-first-blog/</link>
+      <pubDate>Wed, 01 Feb 2023 14:12:23 +0800</pubDate>
+      
+      <guid>/post/zyx-first-blog/</guid>
+      <description>zyx&amp;rsquo;s first blog blog
+b站</description>
+    </item>
+    
+  </channel>
+</rss>
